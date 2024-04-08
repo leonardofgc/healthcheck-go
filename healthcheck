@@ -1,0 +1,4 @@
+Host: https://www.google.com/ - StatusCode: 200 
+Host: https://www.youtube.com/ - StatusCode: 200 
+Host: https://www.folha.uol.com.br/ - StatusCode: 200 
+Host: https://go.dev/ - StatusCode: 200 
